@@ -1,6 +1,45 @@
 # Stockmarket
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.5.
+Players
+ - Holdings
+ - Cash
+Deck
+Turn
+
+
+GameConfig
+ - 6 Lacs
+ - 10 Cards
+ - 3 Rounds per Turn/Bargain Period
+ - Bargain Periods or Turns
+ - Companies
+ - LotSize
+ - Shares Float
+ - Allow Multiple Director
+
+Company
+ - Name
+ - Starting Price
+ - Current Price
+
+Card
+ - Company
+ - Change
+ - Reason
+
+Special Cards
+- Loan Matured
+- Debenture
+- Rights Issue
+- Currency +/- 10%
+- Share Suspend
+
+Other Fun Stuff
+ - Chairman Priviledge
+ - Director Priviledge
+
+Restock Cards
+Shuffle
 
 ## Development server
 
